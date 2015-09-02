@@ -4,8 +4,8 @@
 [View the massive buddhabrot](http://htmlpreview.github.io/?https://github.com/buddhabrot-2/buddhabrot-2/blob/master/index.html)
 
 #### Credits
-* @davidaramant
-* @ryanclarke
+* [@davidaramant](https://github.com/davidaramant)
+* [@ryanclarke](https://github.com/ryanclarke)
 
 ---
 
