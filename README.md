@@ -5,6 +5,7 @@
 
 #### Credits
 * [@davidaramant](https://github.com/davidaramant)
+* [@ajalexander](https://github.com/ajalexander)
 * [@ryanclarke](https://github.com/ryanclarke)
 
 ---
